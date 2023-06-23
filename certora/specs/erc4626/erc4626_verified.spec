@@ -317,3 +317,4 @@ invariant ATokenVsStaticAtoken(env e)
             require _SymbolicLendingPool != e.msg.sender;
         }
     }
+    //
